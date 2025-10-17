@@ -11,7 +11,7 @@ err() {
 }
 
 # define variable to hold public key
-public_key_file=""
+public_key_file="$HOME/.ssh/aws"
 
 # check to see the correct number of arguments have been passed to your script
 if [[ $# -ne 1 ]]; then
