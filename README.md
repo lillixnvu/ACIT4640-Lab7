@@ -64,7 +64,7 @@ ansible-playbook playbook.yml
 
 #### Remove keys from AWS
 ```
-./delete_lsb_key
+./delete_lab_key
 ```
 Cleanup script to remove lab's SSH key to AWS account
 
